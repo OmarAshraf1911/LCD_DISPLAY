@@ -22,6 +22,7 @@
  * ends to +5V and ground
  * wiper to LCD VO pin (pin 3)
 
+
  Library originally added 18 Apr 2008
  by David A. Mellis
  library modified 5 Jul 2009
